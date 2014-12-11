@@ -24,3 +24,4 @@ report.html
 selenium-screenshot-*.png
 include/
 lib/
+buildout.cfg
